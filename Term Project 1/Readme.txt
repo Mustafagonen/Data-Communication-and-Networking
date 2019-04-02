@@ -18,6 +18,4 @@ As a first,
 4. 	broker-udp.py
 5.	client-tcp.py
 
-After we run sTcpClient as last, our message is arrived from both router 1 and router 2 to destination(d).
-
-
+After we run client-tcp.py as last, our message is arrived from both router 1 and router 2 to destination(d).
